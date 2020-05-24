@@ -1,0 +1,12 @@
+D:\AngularDemo\DatingAPI\Application.Api\bin\Debug\netcoreapp3.1\Application.Api.deps.json
+D:\AngularDemo\DatingAPI\Application.Api\bin\Debug\netcoreapp3.1\Application.Api.dll
+D:\AngularDemo\DatingAPI\Application.Api\bin\Debug\netcoreapp3.1\Application.Api.pdb
+D:\AngularDemo\DatingAPI\Application.Api\bin\Debug\netcoreapp3.1\Domain.Api.dll
+D:\AngularDemo\DatingAPI\Application.Api\bin\Debug\netcoreapp3.1\Domain.Api.pdb
+D:\AngularDemo\DatingAPI\Application.Api\obj\Debug\netcoreapp3.1\Application.Api.csprojAssemblyReference.cache
+D:\AngularDemo\DatingAPI\Application.Api\obj\Debug\netcoreapp3.1\Application.Api.csproj.CoreCompileInputs.cache
+D:\AngularDemo\DatingAPI\Application.Api\obj\Debug\netcoreapp3.1\Application.Api.AssemblyInfoInputs.cache
+D:\AngularDemo\DatingAPI\Application.Api\obj\Debug\netcoreapp3.1\Application.Api.AssemblyInfo.cs
+D:\AngularDemo\DatingAPI\Application.Api\obj\Debug\netcoreapp3.1\Application.Api.csproj.CopyComplete
+D:\AngularDemo\DatingAPI\Application.Api\obj\Debug\netcoreapp3.1\Application.Api.dll
+D:\AngularDemo\DatingAPI\Application.Api\obj\Debug\netcoreapp3.1\Application.Api.pdb

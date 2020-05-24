@@ -1,0 +1,16 @@
+D:\AngularDemo\DatingAPI\Infrastructure.Api\bin\Debug\netcoreapp3.1\Infrastructure.Api.deps.json
+D:\AngularDemo\DatingAPI\Infrastructure.Api\bin\Debug\netcoreapp3.1\Infrastructure.Api.dll
+D:\AngularDemo\DatingAPI\Infrastructure.Api\bin\Debug\netcoreapp3.1\Infrastructure.Api.pdb
+D:\AngularDemo\DatingAPI\Infrastructure.Api\bin\Debug\netcoreapp3.1\Application.Api.dll
+D:\AngularDemo\DatingAPI\Infrastructure.Api\bin\Debug\netcoreapp3.1\Domain.Api.dll
+D:\AngularDemo\DatingAPI\Infrastructure.Api\bin\Debug\netcoreapp3.1\Persistence.Api.dll
+D:\AngularDemo\DatingAPI\Infrastructure.Api\bin\Debug\netcoreapp3.1\Application.Api.pdb
+D:\AngularDemo\DatingAPI\Infrastructure.Api\bin\Debug\netcoreapp3.1\Domain.Api.pdb
+D:\AngularDemo\DatingAPI\Infrastructure.Api\bin\Debug\netcoreapp3.1\Persistence.Api.pdb
+D:\AngularDemo\DatingAPI\Infrastructure.Api\obj\Debug\netcoreapp3.1\Infrastructure.Api.csprojAssemblyReference.cache
+D:\AngularDemo\DatingAPI\Infrastructure.Api\obj\Debug\netcoreapp3.1\Infrastructure.Api.csproj.CoreCompileInputs.cache
+D:\AngularDemo\DatingAPI\Infrastructure.Api\obj\Debug\netcoreapp3.1\Infrastructure.Api.AssemblyInfoInputs.cache
+D:\AngularDemo\DatingAPI\Infrastructure.Api\obj\Debug\netcoreapp3.1\Infrastructure.Api.AssemblyInfo.cs
+D:\AngularDemo\DatingAPI\Infrastructure.Api\obj\Debug\netcoreapp3.1\Infrastructure.Api.csproj.CopyComplete
+D:\AngularDemo\DatingAPI\Infrastructure.Api\obj\Debug\netcoreapp3.1\Infrastructure.Api.dll
+D:\AngularDemo\DatingAPI\Infrastructure.Api\obj\Debug\netcoreapp3.1\Infrastructure.Api.pdb
