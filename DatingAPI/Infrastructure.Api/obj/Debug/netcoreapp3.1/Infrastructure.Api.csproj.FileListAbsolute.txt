@@ -14,3 +14,5 @@ D:\AngularDemo\DatingAPI\Infrastructure.Api\obj\Debug\netcoreapp3.1\Infrastructu
 D:\AngularDemo\DatingAPI\Infrastructure.Api\obj\Debug\netcoreapp3.1\Infrastructure.Api.csproj.CopyComplete
 D:\AngularDemo\DatingAPI\Infrastructure.Api\obj\Debug\netcoreapp3.1\Infrastructure.Api.dll
 D:\AngularDemo\DatingAPI\Infrastructure.Api\obj\Debug\netcoreapp3.1\Infrastructure.Api.pdb
+D:\AngularDemo\DatingAPI\Infrastructure.Api\bin\Debug\netcoreapp3.1\Common.Api.dll
+D:\AngularDemo\DatingAPI\Infrastructure.Api\bin\Debug\netcoreapp3.1\Common.Api.pdb

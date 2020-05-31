@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oDjCYp5SU49/K9VwbVHvqSl1G5DAuKf/+cHBwTjqHcbGza4nA6D63G9FXFfFwexkBgFJNXV71gOq+317cpK0qQ==",
+  "dgSpecHash": "489BTmZZVk0WOChQhpFoQa8iHOSBOY4lWHXMU2d4c7wzGt9l7ZISOuW08otQnovxWYyaFU/wM84JJQRjujXsVw==",
   "success": true,
   "projectFilePath": "D:\\AngularDemo\\DatingAPI\\Common.Api\\Common.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaurav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

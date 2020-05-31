@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Application.Api\Application.Api.csproj" />
+    <ProjectReference Include="..\Common.Api\Common.Api.csproj" />
     <ProjectReference Include="..\Domain.Api\Domain.Api.csproj" />
     <ProjectReference Include="..\Persistence.Api\Persistence.Api.csproj" />
   </ItemGroup>

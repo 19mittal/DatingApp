@@ -9,6 +9,7 @@
       "Infrastructure.Api/1.0.0": {
         "dependencies": {
           "Application.Api": "1.0.0",
+          "Common.Api": "1.0.0",
           "Domain.Api": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.4",
           "Persistence.Api": "1.0.0"
@@ -860,7 +861,15 @@
           "Application.Api.dll": {}
         }
       },
+      "Common.Api/1.0.0": {
+        "runtime": {
+          "Common.Api.dll": {}
+        }
+      },
       "Domain.Api/1.0.0": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.7.0"
+        },
         "runtime": {
           "Domain.Api.dll": {}
         }
@@ -1487,6 +1496,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Application.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
